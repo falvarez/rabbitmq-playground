@@ -1,0 +1,14 @@
+{
+    "name": "falvarez/playground-rabbitmq",
+    "type": "project",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Federico J. Álvarez Valero",
+            "email": "fede.alvarez@gmail.com"
+        }
+    ]
+}
